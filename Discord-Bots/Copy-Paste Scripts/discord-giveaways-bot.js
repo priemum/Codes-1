@@ -8,7 +8,7 @@ const prefix = "!";
 client.on('ready', () => {
   console.log(`${client.user.tag} is Online`);
 });
-
+  
 client.login('your token here');
 
 
